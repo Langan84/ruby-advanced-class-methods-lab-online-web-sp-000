@@ -43,4 +43,9 @@ class Song
    end
  end
 
+ def song.new_from_filename(filename)
+   song = self.new
+   split_filename = filname.
+ end
+
 end
